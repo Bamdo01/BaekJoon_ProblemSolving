@@ -1,2 +1,2 @@
 # BaekJoon_ProblemSolving
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+백준 홈페이지에 연동되어있는 문제풀이 저장소입니다
